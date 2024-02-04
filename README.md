@@ -11,3 +11,10 @@
 [BOJ8972](https://www.acmicpc.net/problem/8972)  
 [BOJ6118](https://www.acmicpc.net/problem/6118)  
 [BOJ2156](https://www.acmicpc.net/problem/2156)
+
+# 5주차
+
+[BOJ1005](https://www.acmicpc.net/problem/1005)  
+[BOJ11066](https://www.acmicpc.net/problem/11066)  
+[BOJ9020](https://www.acmicpc.net/problem/9020)  
+[BOJ15666](https://www.acmicpc.net/problem/15666)
