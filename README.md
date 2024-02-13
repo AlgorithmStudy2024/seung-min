@@ -18,3 +18,10 @@
 [BOJ11066](https://www.acmicpc.net/problem/11066)  
 [BOJ9020](https://www.acmicpc.net/problem/9020)  
 [BOJ15666](https://www.acmicpc.net/problem/15666)
+
+# 6주차
+
+[BOJ11049](https://www.acmicpc.net/problem/11049)  
+[BOJ2533](https://www.acmicpc.net/problem/2533)  
+[BOJ15664](https://www.acmicpc.net/problem/15664)  
+[BOJ17271](https://www.acmicpc.net/problem/17271)
