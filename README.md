@@ -25,3 +25,10 @@
 [BOJ2533](https://www.acmicpc.net/problem/2533)  
 [BOJ15664](https://www.acmicpc.net/problem/15664)  
 [BOJ17271](https://www.acmicpc.net/problem/17271)
+
+# 7주차
+
+[BOJ2644](https://www.acmicpc.net/problem/2644)  
+[BOJ13274](https://www.acmicpc.net/problem/13274)  
+[BOJ2313](https://www.acmicpc.net/problem/2313)  
+[BOJ17144](https://www.acmicpc.net/problem/17144)
