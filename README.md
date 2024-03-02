@@ -32,3 +32,10 @@
 [BOJ13274](https://www.acmicpc.net/problem/13274)  
 [BOJ2313](https://www.acmicpc.net/problem/2313)  
 [BOJ17144](https://www.acmicpc.net/problem/17144)
+
+## 8주차
+
+[BOJ11060](https://www.acmicpc.net/problem/11060)  
+[BOJ1992](https://www.acmicpc.net/problem/1992)  
+[BOJ5549](https://www.acmicpc.net/problem/5549)  
+[BOJ2734](https://www.acmicpc.net/problem/2734)
