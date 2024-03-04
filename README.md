@@ -39,3 +39,10 @@
 [BOJ1992](https://www.acmicpc.net/problem/1992)  
 [BOJ5549](https://www.acmicpc.net/problem/5549)  
 [BOJ2734](https://www.acmicpc.net/problem/2734)
+
+## 10주차
+
+[BOJ2235](https://www.acmicpc.net/problem/2235)  
+[BOJ5175](https://www.acmicpc.net/problem/5175)  
+[BOJ25827](https://www.acmicpc.net/problem/25827)  
+[BOJ4920](https://www.acmicpc.net/problem/4920)
