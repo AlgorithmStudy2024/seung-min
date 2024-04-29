@@ -46,3 +46,10 @@
 [BOJ5175](https://www.acmicpc.net/problem/5175)  
 [BOJ25827](https://www.acmicpc.net/problem/25827)  
 [BOJ4920](https://www.acmicpc.net/problem/4920)
+
+## 12주차(코딩테스트 대비)
+
+[BOJ14502](https://www.acmicpc.net/problem/14502)  
+[BOJ1012](https://www.acmicpc.net/problem/1012)  
+[BOJ1932](https://www.acmicpc.net/problem/1932)  
+[BOJ11724](https://www.acmicpc.net/problem/11724)
