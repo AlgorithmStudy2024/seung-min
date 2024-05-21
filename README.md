@@ -33,28 +33,28 @@
 [BOJ2313](https://www.acmicpc.net/problem/2313)  
 [BOJ17144](https://www.acmicpc.net/problem/17144)
 
-## 8주차
+# 8주차
 
 [BOJ11060](https://www.acmicpc.net/problem/11060)  
 [BOJ1992](https://www.acmicpc.net/problem/1992)  
 [BOJ5549](https://www.acmicpc.net/problem/5549)  
 [BOJ2734](https://www.acmicpc.net/problem/2734)
 
-## 10주차
+# 10주차
 
 [BOJ2235](https://www.acmicpc.net/problem/2235)  
 [BOJ5175](https://www.acmicpc.net/problem/5175)  
 [BOJ25827](https://www.acmicpc.net/problem/25827)  
 [BOJ4920](https://www.acmicpc.net/problem/4920)
 
-## 12주차(코딩테스트 대비)
+# 12주차(코딩테스트 대비)
 
 [BOJ14502](https://www.acmicpc.net/problem/14502)  
 [BOJ1012](https://www.acmicpc.net/problem/1012)  
 [BOJ1932](https://www.acmicpc.net/problem/1932)  
 [BOJ11724](https://www.acmicpc.net/problem/11724)
 
-## 2024년04월29일
+# 13주차
 
 |                      번호                      |                        문제 이름                        |
 | :--------------------------------------------: | :-----------------------------------------------------: |
