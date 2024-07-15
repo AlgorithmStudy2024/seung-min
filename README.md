@@ -33,23 +33,33 @@
 [BOJ2313](https://www.acmicpc.net/problem/2313)  
 [BOJ17144](https://www.acmicpc.net/problem/17144)
 
-## 8주차
+# 8주차
 
 [BOJ11060](https://www.acmicpc.net/problem/11060)  
 [BOJ1992](https://www.acmicpc.net/problem/1992)  
 [BOJ5549](https://www.acmicpc.net/problem/5549)  
 [BOJ2734](https://www.acmicpc.net/problem/2734)
 
-## 10주차
+# 10주차
 
 [BOJ2235](https://www.acmicpc.net/problem/2235)  
 [BOJ5175](https://www.acmicpc.net/problem/5175)  
 [BOJ25827](https://www.acmicpc.net/problem/25827)  
 [BOJ4920](https://www.acmicpc.net/problem/4920)
 
-## 12주차(코딩테스트 대비)
+# 12주차(코딩테스트 대비)
 
 [BOJ14502](https://www.acmicpc.net/problem/14502)  
 [BOJ1012](https://www.acmicpc.net/problem/1012)  
 [BOJ1932](https://www.acmicpc.net/problem/1932)  
 [BOJ11724](https://www.acmicpc.net/problem/11724)
+
+# 13주차
+
+|                      번호                      |                        문제 이름                        |
+| :--------------------------------------------: | :-----------------------------------------------------: |
+|  [1010](https://www.acmicpc.net/problem/1010)  |    [다리 놓기](https://www.acmicpc.net/problem/1010)    |
+|  [2876](https://www.acmicpc.net/problem/2876)  |  [그래픽스 퀴즈](https://www.acmicpc.net/problem/2876)  |
+|  [1469](https://www.acmicpc.net/problem/1469)  |  [숌 사이 수열](https://www.acmicpc.net/problem/1469)   |
+| [20119](https://www.acmicpc.net/problem/20119) | [클레어와 물약](https://www.acmicpc.net/problem/20119)  |
+| [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
