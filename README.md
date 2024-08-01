@@ -63,3 +63,10 @@
 |  [1469](https://www.acmicpc.net/problem/1469)  |  [숌 사이 수열](https://www.acmicpc.net/problem/1469)   |
 | [20119](https://www.acmicpc.net/problem/20119) | [클레어와 물약](https://www.acmicpc.net/problem/20119)  |
 | [19235](https://www.acmicpc.net/problem/19235) | [모노미노도미노](https://www.acmicpc.net/problem/19235) |
+
+# 14주차
+
+|                      번호                      |                       문제 이름                        |
+| :--------------------------------------------: | :----------------------------------------------------: |
+| [14889](https://www.acmicpc.net/problem/14889) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |
+|  [7562](https://www.acmicpc.net/problem/7562)  | [나이트의 이동](https://www.acmicpc.net/problem/7562)  |
